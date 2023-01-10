@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(59, 66, 66, 0.644); box-shadow: 0 0 5px; margin-left: 200px; margin-right: 200px;
+}
+h1{
+    color: rgba(8, 7, 8, 0.774); text-shadow: 0 0 2px; font-style: italic; margin-left: 500px;
+}
+h2{
+    color: rgba(11, 9, 14, 0.788); margin-left: 300px;
+}
+img{
+    margin-left: 400px;
+}
+a{
+    color: rgb(243, 247, 2);
+}
+p{
+    color: rgba(7, 7, 7, 0.699);
+}
