@@ -17,7 +17,7 @@ greating()
 let age = Number(prompt('Сколько тебе лет?'))
 switch (age) {
     case 18:
-        alert('Ты Совршеннолетний');
+        alert('Ты cовршеннолетний');
         break;
     case 20:
         alert('Ты можешь купить машину');
